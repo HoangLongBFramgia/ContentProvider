@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ContentProvider</string>
+    <string name="permission_granted">PERMISSION GRANTED</string>
+    <string name="permission_denied">PERMISSION DENIED</string>
 </resources>
